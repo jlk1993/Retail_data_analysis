@@ -23,8 +23,8 @@ https://archive.ics.uci.edu/ml/datasets/Online+Retail
 ### 分析目的
 > 本实例基于电商分销数据，希望借助`KMeans聚类算法`基于 `RFM模型`对客户进行分群及对细分后的客户群体进行解读，识别出高价值客户，并能够对不同价值的客户群体制定对应的运营策略。
 
-
 ---
+
 ## 实例分析
 > 只展示可视化结果，省略数据加载、预处理等步骤，详细请参阅`RFM_pracitice.ipynb`
 
